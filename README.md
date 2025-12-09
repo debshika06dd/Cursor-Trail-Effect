@@ -1,7 +1,7 @@
 # 🎨 Custom Cursor Trail Effect
 
-This project creates a smooth and interactive custom cursor with a trailing animation using HTML, CSS, and JavaScript.
-When the user moves the mouse, a main cursor circle follows instantly, and multiple smaller circles follow behind with a delay — creating a glowing trail effect.
+This project creates a smooth and interactive custom cursor with a trailing animation using HTML, CSS, and JavaScript. When the user moves the mouse, a main cursor circle follows instantly, and multiple smaller circles follow behind with a delay — creating a glowing trail effect.
+
 ***Website is live at:*** *https://debshika06dd.github.io/Cursor-Trail-Effect/*
 ---
 # 📌 Features
