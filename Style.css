@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #111;
+    overflow: hidden;
+    cursor: none;
+}
+
+#cursor{
+    width:20px;
+    height: 20px;
+    background: yellow;
+    border-radius: 50%;
+    pointer-events: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
+.trail{
+    width: 15px;
+    height: 15px;
+    background:yellow;
+    border-radius: 50%;
+    position: absolute;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+}
